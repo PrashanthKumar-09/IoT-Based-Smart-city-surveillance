@@ -10,7 +10,6 @@
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -141,7 +140,7 @@ fp-sos/
 
 ## Contributors
 
-- **Vinay B** - Softwware Development
+- **Vinay B** - Software Development
 - **Srinivas S** - Hardware Designing
 - **Vishwas** - UI designing
 - **Prashanth Kumar D** - Mechanical designing
